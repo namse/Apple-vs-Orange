@@ -69,6 +69,6 @@ Fight here guys. Give me Pull Request.
 
 - PascalCase vs camelCase vs underscore_case vs kebab-case
 
-- Intel vs AMD
+- Intel vs AMD vs Elbrus(Эльбрус) vs ARM vs AVR
 
 - Geforce vs Radeon
