@@ -110,3 +110,5 @@ Fight here guys. Give me Pull Request.
 - Pizza vs Fried Chicken
 
 - Hamburger vs Hot Dog
+
+- Hot vs Cold
