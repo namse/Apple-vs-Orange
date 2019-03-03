@@ -118,3 +118,5 @@ Fight here guys. Give me Pull Request.
 - Twice vs Red Velvet vs Black Pink
 
 - East Coast Rap vs West Coast Rap
+
+- Super Junior vs Girls Generation
