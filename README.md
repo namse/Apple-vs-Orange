@@ -64,3 +64,5 @@ Fight here guys. Give me Pull Request.
 - React vs Angular vs Vue.js
 
 - Chrome vs Firefox vs Opera vs Safari vs Edge
+
+- iPhone vs Android vs Windows Phone
