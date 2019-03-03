@@ -70,3 +70,5 @@ Fight here guys. Give me Pull Request.
 - PascalCase vs camelCase vs underscore_case vs kebab-case
 
 - Intel vs AMD
+
+- Geforce vs Radeon
