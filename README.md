@@ -58,3 +58,5 @@ Fight here guys. Give me Pull Reuqest.
 - Javascript vs Typescript
 
 - Node.js vs Next.js
+
+- Windows vs Mac vs Linux
