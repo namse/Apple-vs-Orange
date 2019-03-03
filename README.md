@@ -75,4 +75,4 @@ Fight here guys. Give me Pull Request.
 
 - PlayStation vs Xbox vs Nintendo
 
-- McDonald's vs Burger King vs KFC vs Shake Shake vs In & Out
+- McDonald's vs Burger King vs KFC vs Shake Shake vs In & Out vs Wendy's
