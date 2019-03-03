@@ -82,3 +82,5 @@ Fight here guys. Give me Pull Request.
 - Beef vs Chicken vs Pork
 
 - Unreal Engine vs Unity Engine
+
+- wayland vs xorg
