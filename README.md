@@ -98,3 +98,5 @@ Fight here guys. Give me Pull Request.
 - MP4 vs MKV vs AVI
 
 - pornhub vs xvideos vs youporn vs avgle
+
+- DeskTop vs LapTop
