@@ -17,8 +17,6 @@ Fight here guys. Give me Pull Request.
 
 - Javascript vs Java
 
-- Javascript isn't Java
-
 - Tabs vs Spaces
 
 - Jesus vs Santa
