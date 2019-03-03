@@ -144,3 +144,9 @@ Fight here guys. Give me Pull Request.
 - Americano vs Mocha vs Latte
 
 - Ballet vs Break Dance
+
+- Seoul Univ. vs Korea Univ. vs Yonsei Univ
+
+- Tokyo Univ. vs Keio Univ. vs Waseda Univ
+
+- Oxford vs Cambridge
