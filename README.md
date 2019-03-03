@@ -115,4 +115,4 @@ Fight here guys. Give me Pull Request.
 
 - Salmon vs Tuna
 
-- Twice vs Red Velvet
+- Twice vs Red Velvet vs Black Pink
