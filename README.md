@@ -134,3 +134,5 @@ Fight here guys. Give me Pull Request.
 - Speaker vs Headphone vs Earphone vs Headset
 
 - Movie vs TV
+
+- Phones vs Tablets
