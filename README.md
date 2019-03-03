@@ -61,4 +61,6 @@ Fight here guys. Give me Pull Request.
 
 - Star Wars vs Startrek
 
-- React vs Angular
+- React vs Angular vs Vue.js
+
+- Chrome vs Firefox vs Opera vs Safari vs Edge
