@@ -62,3 +62,5 @@ Fight here guys. Give me Pull Reuqest.
 - Windows vs Mac vs Linux
 
 - Star Wars vs Startrek
+
+- Chrome vs Firefox vs Opera vs Safari vs Edge
