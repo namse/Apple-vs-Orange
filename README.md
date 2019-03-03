@@ -92,3 +92,5 @@ Fight here guys. Give me Pull Request.
 - Github vs Gitlab vs Bitbucket
 
 - Vodka vs Rum vs Whiskey
+
+- JPG vs PNG vs GIF
