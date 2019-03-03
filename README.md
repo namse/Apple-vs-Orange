@@ -130,3 +130,5 @@ Fight here guys. Give me Pull Request.
 - Rice vs Noodle vs Bread
 
 - Keyboard vs Mouse
+
+- Speaker vs Headphone vs Earphone vs Headset
