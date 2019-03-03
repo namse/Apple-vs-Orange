@@ -136,3 +136,5 @@ Fight here guys. Give me Pull Request.
 - Movie vs TV
 
 - Phones vs Tablets
+
+- Pokemon vs Digimon
