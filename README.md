@@ -66,3 +66,5 @@ Fight here guys. Give me Pull Request.
 - Chrome vs Firefox vs Opera vs Safari vs Edge
 
 - iPhone vs Android vs Windows Phone
+
+- PascalCase vs camelCase vs underscore_case
