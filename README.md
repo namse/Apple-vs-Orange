@@ -108,3 +108,5 @@ Fight here guys. Give me Pull Request.
 - Instagram vs Snapchat
 
 - Pizza vs Fried Chicken
+
+- Hamburger vs Hot Dog
