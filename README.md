@@ -114,3 +114,5 @@ Fight here guys. Give me Pull Request.
 - Hot vs Cold
 
 - Salmon vs Tuna
+
+- Twice vs Red Velvet
