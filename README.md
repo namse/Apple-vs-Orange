@@ -86,3 +86,5 @@ Fight here guys. Give me Pull Request.
 - wayland vs xorg
 
 - Soju vs Sake
+
+- Git vs SVN
