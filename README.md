@@ -74,3 +74,5 @@ Fight here guys. Give me Pull Request.
 - Geforce vs Radeon
 
 - PlayStation vs Xbox vs Nintendo
+
+- McDonald's vs Burger King vs KFC vs Shake Shake vs In & Out
