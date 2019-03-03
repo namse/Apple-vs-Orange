@@ -1,7 +1,5 @@
 # Apple-vs-Orange
-Fight here guys. Give me Pull Reuqest.
-
-- Apple vs Orange
+Fight here guys. Give me Pull Request.
 
 - NoSQL vs SQL
 
@@ -58,3 +56,5 @@ Fight here guys. Give me Pull Reuqest.
 - Javascript vs Typescript
 
 - Node.js vs Next.js
+
+- React vs Angular
