@@ -104,3 +104,5 @@ Fight here guys. Give me Pull Request.
 - Dark Theme vs Light Theme
 
 - Facebook vs Twitter
+
+- Instagram vs Snapchat
