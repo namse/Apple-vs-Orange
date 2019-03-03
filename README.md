@@ -68,3 +68,5 @@ Fight here guys. Give me Pull Request.
 - iPhone vs Android vs Windows Phone
 
 - PascalCase vs camelCase vs underscore_case vs kebab-case
+
+- Intel vs AMD
