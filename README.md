@@ -112,3 +112,5 @@ Fight here guys. Give me Pull Request.
 - Hamburger vs Hot Dog
 
 - Hot vs Cold
+
+- Salmon vs Tuna
