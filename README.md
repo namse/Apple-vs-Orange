@@ -72,3 +72,5 @@ Fight here guys. Give me Pull Request.
 - Intel vs AMD vs Elbrus(Эльбрус) vs ARM vs AVR
 
 - Geforce vs Radeon
+
+- PlayStation vs Xbox vs Nintendo
